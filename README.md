@@ -14,3 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Tanmay Tripathi</h1>
+
+<p align="center">
+🧚🏻‍♀️ B.Tech CSE @ Central University of Jammu <br>
+💻 aspiring AI/ML & full-stack developer <br>
+✨ building cute little projects & growing every day <br>
+🌷 learning, debugging & dreaming in code
+
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+🧚 CSE student with too many tabs open
+💻 Into web dev, AI/ML & creative coding
+🧠 Currently surviving DSA and late-night debugging
+🌱 Learning slowly, building happily
+✨ Making cute projects with chaotic energy
+
+---
+
+
+## 📊 Current Focus  
+
+- 🔥 Improving **Data Structures & Algorithms**  
+- 🤖 Exploring **Machine Learning concepts**  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/anandi-mahajan-432a5412b/
+- 📧 Email: anandimahajan60@gmail.com
+
+---
+
+## ✨ Quote  
+
+<p align="center">
+<i>Build consistently. Improve continuously. 🚀</i>
+</p>
