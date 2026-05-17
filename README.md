@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanmay Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Anandi Mahajan</h1>
 
 <p align="center">
 🧚🏻‍♀️ B.Tech CSE @ Central University of Jammu <br>
