@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **ghost33218/ghost33218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 ## ✨ Quote  
 
 <p align="center">
-<i>Build consistently. Improve continuously. 🚀</i>
+<i>“Learning one commit at a time ⋆｡°✩”</i>
 </p>
