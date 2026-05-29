@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Anandi Mahajan</h1>
 
 <p align="center">
-🧚🏻‍♀️ B.Tech CSE @ Central University of Jammu <br>
-💻 aspiring AI/ML & full-stack developer <br>
-✨ building cute little projects & growing every day <br>
-🌷 learning, debugging & dreaming in code
-
+🧚🏻‍♀️ wandering through algorithms and enchanted codebases <br>
+🌸 B.Tech CSE @ Central University of Jammu <br>
+🤖 learning AI/ML, crafting full-stack adventures <br>
+☁️ collecting ideas, debugging dreams, building tiny worlds <br>
+✨ currently on a quest to become the developer I once looked up to
 </p>
 
 ---
